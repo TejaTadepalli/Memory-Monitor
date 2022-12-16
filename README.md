@@ -1,8 +1,6 @@
 # Real Time Memory Monitor using Node.js and Socket.IO
 
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="Node.js" height="100">
-&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="Socket.IO" height="100">
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="Node.js" height="100"> &nbsp; &nbsp; &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="Socket.IO" height="100">
 
 <br>
 
@@ -17,3 +15,4 @@ Free Memory and Total Memory will be taken from **OS Module** under **Node.js**.
 <br>
 
 # Output:
+![image](https://user-images.githubusercontent.com/91416443/208163871-d2bde431-d26e-48a4-9d64-d5791e11e239.png)
