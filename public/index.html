@@ -16,7 +16,7 @@
         console.log(data);
     });
     socket.on('memory-update', function(data) {            // listen for 'memory-update' event
-        //console.log(data.percent);                         // log the percentage of memory used
+        console.log(data.percent);                         // log the percentage of memory used
         document.getElementById('memory-usage').innerHTML = data.percent + '%';
     });
 </script>
